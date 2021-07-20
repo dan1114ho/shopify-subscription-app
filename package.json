@@ -65,7 +65,7 @@
     "shopify-buy": "^2.6.1",
     "store": "^2.0.12",
     "stripe": "^7.8.0",
-    "urijs": "^1.19.1",
+    "urijs": "^1.19.7",
     "webpack": "^4.40.2"
   },
   "devDependencies": {
